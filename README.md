@@ -8,10 +8,11 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[http://www.add link to your project here.com]([http://www.add link to your project here.com)
+[http://mmp.bmcc.cuny.edu/bianca.gonzalez2/spring-2018/mmp-100/project-3/Bustling-Coffeehouse/]
+ link to your project here.com]([http://mmp.bmcc.cuny.edu/bianca.gonzalez2/spring-2018/mmp-100/project-3/Bustling-Coffeehouse/
 
 ### Description
-Your description goes here.
+The ambiance of a coffeehouse is unbeatable, it creates a preferable workplace for many to get away from home or the office. The aroma of coffee and the chatter of patrons is calming yet spurs an individual to be productive.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
